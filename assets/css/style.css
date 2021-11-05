@@ -343,6 +343,15 @@ section .container {
   color: #fff;
 }
 
+.section-title .text {
+  margin: 0;
+  margin: -5px 0 15px 0;
+  font-size: 18px;
+  /* font-weight: 600; */
+  font-family: "Poppins", sans-serif;
+  color: #fff;
+}
+
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
